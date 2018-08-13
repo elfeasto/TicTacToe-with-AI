@@ -1,0 +1,10 @@
+c:\users\galla\documents\visual studio 2015\Projects\MyTTT\MyTTT\bin\Debug\MyTTT.exe.config
+c:\users\galla\documents\visual studio 2015\Projects\MyTTT\MyTTT\obj\Debug\MyTTT.csprojResolveAssemblyReference.cache
+c:\users\galla\documents\visual studio 2015\Projects\MyTTT\MyTTT\obj\Debug\MyTTT.Form1.resources
+c:\users\galla\documents\visual studio 2015\Projects\MyTTT\MyTTT\obj\Debug\MyTTT.Properties.Resources.resources
+c:\users\galla\documents\visual studio 2015\Projects\MyTTT\MyTTT\obj\Debug\MyTTT.csproj.GenerateResource.Cache
+C:\Users\galla\Documents\Visual Studio 2015\Projects\MyTTT\MyTTT\bin\Debug\MyTTT.exe
+C:\Users\galla\Documents\Visual Studio 2015\Projects\MyTTT\MyTTT\bin\Debug\MyTTT.pdb
+C:\Users\galla\Documents\Visual Studio 2015\Projects\MyTTT\MyTTT\obj\Debug\MyTTT.exe
+C:\Users\galla\Documents\Visual Studio 2015\Projects\MyTTT\MyTTT\obj\Debug\MyTTT.pdb
+C:\Users\galla\Documents\Visual Studio 2015\Projects\MyTTT\MyTTT\obj\Debug\MyTTT.csproj.CoreCompileInputs.cache
